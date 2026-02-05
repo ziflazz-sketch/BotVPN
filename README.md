@@ -21,4 +21,4 @@ ambil username, auth_token, web_mutasi
 ## TAMPILAN SC BotVPN POTATO 
 <img src="./ss2.png" alt="image" width="300"/>
 
-Owner : https://t.me/ARI_VPN_STORE
+Owner : https://t.me/Cloudfrare
